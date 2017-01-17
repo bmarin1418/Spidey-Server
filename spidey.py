@@ -1,6 +1,5 @@
 #!/bin/env python2.7
 
-# Brent Marin and Brad Sherman
 # spidey web server
 
 import logging
